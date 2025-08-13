@@ -7,7 +7,7 @@
 ---
 
 ## 🛠 Skills
-- **Languages:** Python, C++, C#, JavaScript, HTML5, CSS3, Matlab  
+- **Languages:** Python, C++, C#, JavaScript, HTML5, CSS3, Matlab, Java  
 - **Frameworks:** React.js  
 - **Tools:** Git, GitHub, Linux
 
