@@ -14,5 +14,5 @@
 ---
 
 ## 📫 Contact
-[GitHub](https://github.com/SionAlin) • [LinkedIn](https://www.linkedin.com/in/alin-sion/) • [LeetCode](https://leetcode.com/u/alin_sion/)  
+[GitHub](https://github.com/SionAlin) • [LinkedIn](https://www.linkedin.com/in/alin-sion-29b193320/) • [LeetCode](https://leetcode.com/u/alin_sion/)  
 📧 alin.sion878@gmail.com
