@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Alin Sion
-💻 *Front-end Web Developer | Python & C++ Enthusiast*
+💻 *AI Developer | Python & C++ Enthusiast*
 
 🎓 Student at **Alexandru Ioan Cuza University of Iași**  
 🚀 Passionate about web development, AI, and writing clean, efficient code.
