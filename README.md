@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alin Sion
 
-**AI Software Engineer**
+**AI Software Developer**
 
 I am a student at Alexandru Ioan Cuza University of Iași, passionate about programming and building things through it. I enjoy learning and working with Python, machine learning, computer vision, large language models, and AI-powered applications. Deeply committed to continuous growth and open to new opportunities that push my problem-solving abilities and help me grow.
 
