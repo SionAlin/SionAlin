@@ -2,7 +2,7 @@
 
 **AI Software Developer**
 
-I am a student at Alexandru Ioan Cuza University of Iași, passionate about programming and building things through it. I enjoy learning and working with Python, machine learning, computer vision, large language models, and AI-powered applications. Deeply committed to continuous growth and open to new opportunities that push my problem-solving abilities and help me grow.
+AI Software Developer focused on building applications that combine solid software engineering with practical machine learning from computer vision pipelines to LLM-based systems. I like working close to the implementation details: writing algorithms from scratch when it helps me understand them better, then packaging that understanding into tools that actually work. Currently looking for a role where I can keep building AI-integrated software and grow alongside a team.
 
 ---
 
